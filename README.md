@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gym.png" width="100%" alt="Noureddine - Gym">
+  <img src="gym1.png" width="100%" alt="Noureddine - Gym">
 </div>
 
 # 👋 Hey, I'm Noureddine Ben Attous
