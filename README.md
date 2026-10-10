@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="gym.png" width="100%" alt="Noureddine - Gym">
+</div>
+
 # 👋 Hey, I'm Noureddine Ben Attous
 
 🎓 **MSc Student in Artificial Intelligence & Data Science** 🇩🇿
